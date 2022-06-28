@@ -11,9 +11,9 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 ## Faglærerinfo  
 
-[Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
+[Ole Kristian Aars](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
 
-Edgardo Vidal Salinas (seminar/studenthjelp, <edgardo.d.salinas@uit.no>, <berlin1980e@gmail.com>)
+MÅ OPPDATERES (seminar/studenthjelp, <edgardo.d.salinas@uit.no>, <berlin1980e@gmail.com>)
 
 Edgardo har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
 
