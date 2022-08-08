@@ -38,7 +38,7 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 
 ## Forelesninger/undervisning
 
-Det gjøres ikke opptak av forelesninger for dette semesteret. Opptak fra forelesning forrige semester kan finnes her bli gitt to typer forelesninger:
+Det gjøres ikke opptak av forelesninger for dette semesteret. Studenter kan supplere ved å se på forelesning fra forrige semester:
 
 1. [Opptak fra forelesning forrige semester kan finnes på mediasite her](https://mediasite.uit.no/Mediasite/Channel/b5ed2471bf8e45aaa161225fe36e0c645f/watch/3865728a718e4785b303819d02ee996d1d)
 
