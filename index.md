@@ -7,7 +7,7 @@
 ## Kursbeskrivelse 
 
 Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.  
-[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722326){:target="blank"}
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=766160){:target="blank"}
 
 ## Faglærerinfo  
 
@@ -20,8 +20,8 @@ Edgardo har også kontortid, der studentene kan stille spørsmål om de har beho
 
 ## Pensum  
 
-[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h21/notebooks){:target="blank"}  
-[Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
+HVA ER DETTE?[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h21/notebooks){:target="blank"}  
+USIKKER PÅ DENNE [Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
 
 DataCamp blir tilgjengelig mandag 16. august.
 
@@ -46,7 +46,7 @@ Det gjøres ikke opptak av forelesninger for dette semesteret. Opptak fra forele
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24032){:target="blank"}.
+HAR IKKE TILGANG TIL KURS Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24032){:target="blank"}.
 
 
 ## Innlevering og eksamen  
