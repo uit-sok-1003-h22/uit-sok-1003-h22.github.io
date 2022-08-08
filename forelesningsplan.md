@@ -52,7 +52,7 @@ th {
 </td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Funksjoner</td>	<td>* Definere en enkel funksjon<br>
 * Funksjoner med flere argumenter<br>
-* Funksjoner som returnerer flere variabler</td>	<td>Writing your own functions</td>	<td>Toolbox I</td>	<th><a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/2%20- funksjoner.ipynb'>2 - funksjoner.ipynb</a><br>
+* Funksjoner som returnerer flere variabler</td>	<td>Writing your own functions</td>	<td>Toolbox I</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/2%20-%20funksjoner.ipynb'>2 - funksjoner.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td>38</td>	<td>3</td>	<td>Matplotlib</td>	<td>* Linjeplot<br>
 * Scatterplot<br>
@@ -60,7 +60,7 @@ th {
 * Etiketter<br>
 * Størrelser<br>
 * Farger<br>
-* Andre tilpasninger</td>	<td>Matplotlib</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/3%20- matplotlib.ipynb'>3 - matplotlib.ipynb</a><br>
+* Andre tilpasninger</td>	<td>Matplotlib</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/3%20-%20matplotlib.ipynb'>3 - matplotlib.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>39</td>	<td>4</td>	<td>Python lister</td>	<td>* Lage lister<br>
 * Lage lister med ulike typer<br>
