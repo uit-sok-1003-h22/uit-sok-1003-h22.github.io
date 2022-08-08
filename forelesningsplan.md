@@ -91,7 +91,7 @@ th {
 * Sammenligne vektorer<br>
 * Numpy, boolske operatorer og filtrering<br>
 * Betingelser; if-else-elif<br>
-* Filtrere pandas DataFrame</td>	<td>Logic, Control Flow and Filtering</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/6%20- logikk-filtrering-betingelser.ipynb'>6 - logikk-filtrering-betingelser.ipynb</a><br>
+* Filtrere pandas DataFrame</td>	<td>Logic, Control Flow and Filtering</td>	<td>Intermediate Python</td>	<th>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td>46</td>	<td>7</td>	<td>Løkker</td>	<td>* While-løkke<br>
 * Betingelser<br>
