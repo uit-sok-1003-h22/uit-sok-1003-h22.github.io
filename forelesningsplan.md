@@ -99,7 +99,7 @@ th {
 * Indekser og verdier<br>
 * Løkker over lister av lister<br>
 * Løkker over DataFrame<br>
-* Legge til kollonne i DataFrame</td>	<td>Loops</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/7%20- løkker.ipynb'>7 - løkker.ipynb</a><br>
+* Legge til kollonne i DataFrame</td>	<td>Loops</td>	<td>Intermediate Python</td>	<th>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: white;'> 	<td></td>	<td></td>	<td>Simulering</td>	<td>* Tilfeldige tall<br>
 * Random walk<br>
