@@ -26,7 +26,7 @@ Edgardo har også kontortid, der studentene kan stille spørsmål om de har beho
 DataCamp blir tilgjengelig mandag 16. august.
 
 ## Forkunnskaper  
-Ingen TEST
+Ingen 
 
 ## Kursplan  
 
@@ -38,12 +38,11 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 
 ## Forelesninger/undervisning
 
-Det vil bli gitt to typer forelesninger:
+Det gjøres ikke opptak av forelesninger for dette semesteret. Opptak fra forelesning forrige semester kan finnes her bli gitt to typer forelesninger:
 
-1. [Vanlige plenumsforelesninger i auditoriet med opptak på Mediasite](https://mediasite.uit.no/Mediasite/Channel/b5ed2471bf8e45aaa161225fe36e0c645f/watch/3865728a718e4785b303819d02ee996d1d)
+1. [Opptak fra forelesning forrige semester kan finnes på mediasite her](https://mediasite.uit.no/Mediasite/Channel/b5ed2471bf8e45aaa161225fe36e0c645f/watch/3865728a718e4785b303819d02ee996d1d)
 
-2. [Zoomforelesninger (for spørsmål, repetisjon og tilbakemeldinger)](https://uit.zoom.us/j/66828719747?pwd=SUVRbXJ3NXFGMkFuelh2akVFeFloZz09)
-  - [Opptak forelesning 1.9](https://mediasite.uit.no/Mediasite/Play/db5bd39679e645968b2d16df1599e8461d)
+2. [Zoomforelesninger (for spørsmål, repetisjon og tilbakemeldinger)](https://uit.zoom.us/j/7036118194?pwd=Umxlb1VFOXRaa3dDSUdaTzNUbTYrUT09)
 
 ## Kunngjøringer  
 
