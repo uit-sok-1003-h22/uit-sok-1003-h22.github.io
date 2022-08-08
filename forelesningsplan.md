@@ -69,7 +69,7 @@ th {
 * Manipulere lister<br>
 * Erstatte listeelementer<br>
 * Utvide en liste<br>
-* Kopiere en liste</td>	<td>Python Lists</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/4%20- lister.ipynb'>4 - lister.ipynb</a><br>
+* Kopiere en liste</td>	<td>Python Lists</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32/4%20-%20lister%2C%20oppslag%20og%20numpy.ipynb'>4 - lister.ipynb</a><br>
 </th>	<td></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td></td>	<td></td>	<td>Numpy</td>	<td>* Vektorer og matriser<br>
 * Velge elementer<br>
@@ -79,9 +79,7 @@ th {
 * Bruke sympy til å <br>
   - derivere <br>
   - finne maksimum<br>
-  -integrere</td>	<td></td>	<td></td>	<th><a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/5%20- tilbud og etterspørsel.ipynb'>5 - tilbud og etterspørsel.ipynb</a><br>
-<a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/5%20- profittmaksimering.ipynb'>5 - profittmaksimering.ipynb</a><br>
-<a href='https://github.com/uit-sok-1003-h21/notebooks/blob/main/5%20- tilbud og etterspørsel 2.ipynb'>5 - tilbud og etterspørsel 2.ipynb</a><br>
+  -integrere</td>	<td></td>	<td></td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/f7d17e0c138c4b28a2aac29cda0459e21fc07c32//5%20-%20sympy.ipynb'>5 - tilbud og etterspørsel.ipynb</a><br>
 </th>	<td>Oppgave kommer</td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>44</td>	<td>6</td>	<td>Oppslagsliste og Pandas</td>	<td>* Motivasjon for oppslagsliste (dictionary)<br>
 * Lage, bruke og manipulere en oppslagsliste<br>
