@@ -13,7 +13,7 @@ Bruk det du har lært i dette kurset til å automatisere et problem eller hente 
 # Slik leverer du:
 Prosjektet leveres som et Jupyter-prosjekt, som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
 
-FØLGENDE NAVN PÅ PROSJEKTET MÅ BRUKES: SOK-1003-eksamen-2021. 
+FØLGENDE NAVN PÅ PROSJEKTET MÅ BRUKES: SOK-1003-eksamen-2022. 
 
 Innen 22/10 skal dere levere en skisse til prosjektet. Denne skal ikke inneholde kode, kun forklare hva dere har tenkt til å gjøre, på ca. én side. 
 Innleveringsfrist for selve oppgaven er 3/12. 
@@ -43,7 +43,6 @@ Karakter gis ut fra følgende tre kriterier:
 Det er ingen minste lengde på oppgaven. Det avgjørende er om den er godt besvart. 
 
 # Muntlig vurdering
-* Den muntlige eksamenen skjer på Zoom (på grunn av universitetets regler).
 * Det legges først og fremst vekt på faglig kunnskap i den muntlige vurderingen
 * Gruppen/kandidaten må kunne forklare og presentere oppgaven på en enkel og presis måte. 
 * I grupper med flere, må alle medlemmene ha eierskap til prosjektet og kunne svare hver for seg om alle detaljer. 
