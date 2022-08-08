@@ -41,7 +41,7 @@ th {
 * Variabler og typer<br>
 * Å sette variabler<br>
 * Ulike variabeltyper<br>
-* Konvertere variabeltype</td>	<td>Python Basics</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/1%20- variabler.ipynb'>1 - variabler.ipynb</a><br>
+* Konvertere variabeltype</td>	<td>Python Basics</td>	<td>Introduction to Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/1%20-%20introduksjon.ipynb'>1 - variabler.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
 </tr><tr style='background-color: #f6f5ff;'> 	<td>36</td>	<td>2</td>	<td>Funksjoner og pakker</td>	<td>* Funksjoner<br>
 * Hjelp til funksjoner<br>
