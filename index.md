@@ -26,7 +26,7 @@ Edgardo har også kontortid, der studentene kan stille spørsmål om de har beho
 DataCamp blir tilgjengelig mandag 16. august.
 
 ## Forkunnskaper  
-Ingen
+Ingen TEST
 
 ## Kursplan  
 
