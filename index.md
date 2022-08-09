@@ -13,15 +13,15 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 [Ole Kristian Aars](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
 
-MÅ OPPDATERES (seminar/studenthjelp, <edgardo.d.salinas@uit.no>, <berlin1980e@gmail.com>)
+[TBD] (seminar/studenthjelp,<epost>)
 
-Edgardo har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
+[Seminarleder] har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
 
 
 ## Pensum  
 
-HVA ER DETTE?[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h21/notebooks){:target="blank"}  
-USIKKER PÅ DENNE [Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
+[Interaktive notater i Jupyter](https://github.com/uit-sok-1003-h22){:target="blank"}  
+[Kapittel i DataCamp (se kursplan)](https://learn.datacamp.com/){:target="blank"} 
 
 DataCamp blir tilgjengelig mandag 16. august.
 
@@ -54,11 +54,8 @@ Til hver forelesning vil det være et arbeidskrav, enten på [DataCamp](https://
 
 Karakter A-E, med F som stryk, fastsettes basert på et prosjekt som gjøres i grupper. Følgende inngår i karaktervurderingen:
 
-- Innlevering av prosjektskisse
-- Innlevering av prosjekt
-- Muntlig eksamen
-
-På den muntlige eksamen vil studenten også få spørsmål om pensum generelt. 
+- 2 mappeinnlevering 
+- Muntlig eksamen (presentasjon av mappe)
 
 
 [Her finner du informasjon om frister og hvordan du leverer arbeidskrav og prosjekt, og dato for muntlig](semesteroppgave.md){:target="blank"}. 
