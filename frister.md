@@ -17,7 +17,7 @@
 |Arbeidskrav 5        | Sympy ([Se arbeidskrav nederst i forelesningsnotat](https://github.com/uit-sok-1003-h22/notebooks/blob/main/5%20-%20sympy.ipynb))                                               | 31/10 kl. 16.00   |[GitHub](https://github.com/uit-sok-1003-h22)|
 |Arbeidskrav 6        | Oppslag, Pandas, logikk, filtrering og betingelser <br>(Dictionaries & Pandas,Logic, Control Flow and Filtering)  | 08/11 kl. 16.00   |[DataCamp](https://learn.datacamp.com/){:target="blank"}|
 |Arbeidskrav 7        | Løkker/Simulering  (Loops, Case Study: Hacker Statistics)| 15/11 kl. 16.00   |[DataCamp](https://learn.datacamp.com/){:target="blank"}|
-|Presentasjon av mappe 2               |Presentasjon av prosjekt                                  | 24-25. desember |Publiseres senere                          | 10-15 min presentasjon/gjennomgang av mappe |
+|Presentasjon av mappe 2               |Presentasjon av prosjekt                                  | 28-29. desember |Publiseres senere                          | 10-15 min presentasjon/gjennomgang av mappe |
 |Innlevering mappe 2|                                              | 2/12 kl. 13.00    | [GitHub](https://github.com/uit-sok-1003-h22)/[Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}|
 
 
