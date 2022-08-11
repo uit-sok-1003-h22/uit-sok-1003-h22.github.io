@@ -46,7 +46,7 @@ Det gjøres ikke opptak av forelesninger for dette semesteret. Studenter kan sup
 
 ## Kunngjøringer  
 
-HAR IKKE TILGANG TIL KURS Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24032){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/26947){:target="blank"}.
 
 
 ## Innlevering og eksamen  
