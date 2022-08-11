@@ -1,7 +1,9 @@
 {% include navbar_open.html %}
 ## Seminarer
 
- 
+<p>Seminarene vil dreie seg om gjennomgang av arbeidskravene og eventuelle spørsmål om forrige forelesning. Lenke til oppgaver finnes i (forelesningsplanen)< https://uit-sok-1003-h22.github.io/forelesningsplan.html>. </p><br>								
+
+
 
 
 | <img width=120/>|  Tema <img width=800/>       |
