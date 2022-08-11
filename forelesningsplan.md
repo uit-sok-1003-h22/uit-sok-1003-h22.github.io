@@ -93,7 +93,7 @@ th {
 * Betingelser; if-else-elif<br>
 * Filtrere pandas DataFrame</td>	<td>Logic, Control Flow and Filtering</td>	<td>Intermediate Python</td>	<th>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
-</tr><tr style='background-color: white;'> 	<td>46</td>	<td>7</td>	<td>Løkker</td>	<td>* While-løkke<br>
+</tr><tr style='background-color: white;'> 	<td>45</td>	<td>7</td>	<td>Løkker</td>	<td>* While-løkke<br>
 * Betingelser<br>
 * Løkker over lister<br>
 * Indekser og verdier<br>
