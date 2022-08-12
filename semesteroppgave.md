@@ -1,6 +1,23 @@
 {% include navbar_open.html %}
 # Denne siden vil oppdateres om kort tid. Informasjonen under gjelder tidligere semester
 
+# Mappeinnleveringer/eksamen
+Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgavene vil omhandle tema som gjennomgås i dette kurset. For hver mappeoppgave vil studentene presentere mappen. Studentene vil da få hint/kommentarer på oppgaven og deretter ha mulighet til å gjøre endringer før endelig innlevering. 
+
+## Første mappeoppgave 
+Skal leveres inn 17/10, med presentasjon 19/10. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
+
+Mappeoppgaven vil publiseres senest 2 uker før innleveringsfristen.
+
+MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endelig innlevering 6/12. Mappen skal likevel være i relativt ferdig form ved innleveringen 17/10. 
+
+## Andre mappeoppgave 
+Skal leveres inn 6/12, med presentasjon 29/11. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
+
+Mappeoppgaven vil publiseres senest 2 uker før presentasjonen.
+
+
+
 
 # Semesteroppgave/prosjekt
 
