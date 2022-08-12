@@ -34,7 +34,7 @@ th {
 * Konsoll/script<br>
 * Installasjon av Python/Anaconda<br>
 * IDE<br>
-* Python grensesnitt</td>	<td></td>	<td></td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/1%20- introduksjon.ipynb'>1 - intro.ipynb</a><br>
+* Python grensesnitt</td>	<td></td>	<td></td>	<th><br>
 </th>	<td></td>
 </tr><tr style='background-color: white;'> 	<td></td>	<td></td>	<td>Grunnleggende programmering</td>	<td>* Kommentarer<br>
 * Utregning<br>
