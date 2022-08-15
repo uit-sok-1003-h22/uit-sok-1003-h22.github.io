@@ -11,7 +11,7 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 ## Faglærerinfo  
 
-[Ole Kristian Aars](https://uit.no/ansatte/person?p_document_id=768566){:target="blank"} (fagansvarlig)
+[Ole Kristian Aars](https://uit.no/ansatte/person?p_document_id=768566){:target="blank"} (fagansvarlig). Kontor: 02.307
 
 [TBD] (seminar/studenthjelp,<epost>)
 
