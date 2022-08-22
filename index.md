@@ -38,10 +38,8 @@ Undervisningsplanen inneholder kronologisk rekkefølge over de temaer som gjenno
 
 ## Forelesninger/undervisning
 
-Det gjøres ikke opptak av forelesninger for dette semesteret. Studenter kan evt supplere ved å se på forelesning fra forrige semester:
-
-- [Opptak fra forelesning forrige semester kan finnes på mediasite her](https://mediasite.uit.no/Mediasite/Channel/b5ed2471bf8e45aaa161225fe36e0c645f/watch/3865728a718e4785b303819d02ee996d1d)
-
+Det gjøres ikke opptak av forelesninger for dette semesteret. 
+  
 Under forelesning vil et zoom-rom være åpent hvis det er spørsmål noen ikke ønsker å ta i plenum.
 
 - [Zoom-rom (for spørsmål og tilbakemeldinger)](https://uit.zoom.us/j/7036118194?pwd=Umxlb1VFOXRaa3dDSUdaTzNUbTYrUT09)
