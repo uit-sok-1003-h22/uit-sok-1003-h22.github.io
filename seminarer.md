@@ -8,7 +8,7 @@
 
 | <img width=120/>|  Tema <img width=500/>                      | 
 |-----------------|------------------------------| 
-|Seminar 1        |DataCamp: Python Basics  <br> DataCamp: Functions and Packages </b> DataCamp: Writing your own functions <br> </b> <br>DataCamp: Matplotlib </b>|
+|Seminar 1        |<br>DataCamp: Python Basics</br>   <br> DataCamp: Functions and Packages </b> DataCamp: Writing your own functions <br> </b> <br>DataCamp: Matplotlib </b>|
 |Seminar 2        |<br>DataCamp: Matplotlib	 </br>      | 
 |Seminar 3        |<br> DataCamp: Python Lists </b> <br> Datacamp: Numpy </b>     | 
 |Seminar 4        |<br> Oppgave i canvas </b>       |
