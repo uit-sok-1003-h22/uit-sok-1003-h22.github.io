@@ -8,7 +8,7 @@
 
 | <img width=120/>|  Tema <img width=500/>                      | 
 |-----------------|------------------------------| 
-|Seminar 1        |<br>DataCamp: Python Basics  </br> <br<og spørsmål til forelesning 1 og 2 </b>  |
+|Seminar 1        |<br>DataCamp: Python Basics  </br> <br>og spørsmål til forelesning 1 og 2 </b>  |
 |Seminar 2        |DataCamp og spørsmål til forelesning 3       | 
 |Seminar 3        |DataCamp og spørsmål til forelesning 4       | 
 |Seminar 4        |DataCamp og spørsmål til forelesning 5       |
