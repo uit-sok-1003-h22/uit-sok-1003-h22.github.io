@@ -4,7 +4,7 @@
 <p>Seminarene vil dreie seg om gjennomgang av arbeidskravene og eventuelle spørsmål om forrige forelesning. Lenke til oppgaver finnes under <a href='https://uit-sok-1003-h22.github.io/frister.html'>frister og datoer</a>. </p><br>								
 
 
-| <img width=120/>|  Tema <img width=800/>       |
+| <img width=120/>|  Tema <img width=800/>       | test|
 |-----------------|------------------------------|
 |Seminar 1        |DataCamp og spørsmål til forelesning 1 og 2 |
 |Seminar 2        |DataCamp og spørsmål til forelesning 3 | 
