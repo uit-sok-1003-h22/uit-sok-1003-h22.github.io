@@ -10,6 +10,6 @@
 |Seminar 2        |DataCamp: Matplotlib| 22/09 kl. 16:00 |
 |Seminar 3        |DataCamp: Python Lists <br> Datacamp: Numpy| 6/10 kl. 16:00 |
 |Seminar 4        |Oppgave i canvas| 2/11 kl. 16:00|
-|Seminar 5        |Datacamp: Dictionaries & Pandas <br>Datacamp: Logic, Control Flow and Filtering| 09/11 kl. 16:00 |
+|Seminar 5        |Datacamp: Dictionaries & Pandas <br>Datacamp: Logic, Control Flow and Filtering| 9/11 kl. 16:00 |
 |Seminar 6        |Datacamp: Loops<br> Datacamp: Case Study: Hacker Statistics| 16/11 kl. 16:00|
 
