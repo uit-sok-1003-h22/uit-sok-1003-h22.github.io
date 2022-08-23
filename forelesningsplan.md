@@ -62,7 +62,7 @@ th {
 * Farger<br>
 * Andre tilpasninger</td>	<td>Matplotlib</td>	<td>Intermediate Python</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/3%20-%20matplotlib.ipynb'>3 - matplotlib.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
-</tr><tr style='background-color: #f6f5ff;'> 	<td>39</td>	<td>4</td>	<td>Python lister</td>	<td>* Lage lister<br>
+</tr><tr style='background-color: #f6f5ff;'> 	<td>38</td>	<td>4</td>	<td>Python lister</td>	<td>* Lage lister<br>
 * Lage lister med ulike typer<br>
 * Lister av lister<br>
 * Velge elementer i en liste<br>
