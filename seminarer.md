@@ -8,7 +8,7 @@
 
 | <img width=120/>|  Tema <img width=600/>       |       Innleveringsfrist for tilhørende arbeidskrav        |
 |-----------------|------------------------------|---------------|
-|Seminar 1        |DataCamp: Python Basics<br> DataCamp: Functions and Packages <br> DataCamp: Writing your own functions <br>DataCamp: Matplotlib| 14/09 kl. 16:00 |
+|Seminar 1        |DataCamp: Python Basics<br> DataCamp: Functions and Packages <br> DataCamp: Writing your own functions| 14/09 kl. 16:00 |
 |Seminar 2        |DataCamp: Matplotlib| 22/09 kl. 16:00 |
 |Seminar 3        |DataCamp: Python Lists <br> Datacamp: Numpy| 6/10 kl. 16:00 |
 |Seminar 4        |Oppgave i canvas| 2/11 kl. 16:00|
