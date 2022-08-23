@@ -9,10 +9,10 @@
 
 | <img width=120/>|  Tema <img width=800/>       | 
 |-----------------|------------------------------| 
-|Seminar 1        |DataCamp: Python Basics</br>   <br> DataCamp: Functions and Packages </b> DataCamp: Writing your own functions <br> </b> <br>DataCamp: Matplotlib </b>|
-|Seminar 2        |DataCamp: Matplotlib	 </br> | 
-|Seminar 3        |DataCamp: Python Lists </b> <br> Datacamp: Numpy </b>   | 
-|Seminar 4        |Oppgave i canvas </b>       |
-|Seminar 5        |Dictionaries & Pandas </br> <br>Logic, Control Flow and Filtering </b>        |
-|Seminar 6        |Loops</br> <br> Case Study: Hacker Statistics </b>   | 
+|Seminar 1        |DataCamp: Python Basics</br>   <br> DataCamp: Functions and Packages </b> DataCamp: Writing your own functions <br>DataCamp: Matplotlib|
+|Seminar 2        |DataCamp: Matplotlib	| 
+|Seminar 3        |DataCamp: Python Lists </b> <br> Datacamp: Numpy </b>| 
+|Seminar 4        |Oppgave i canvas </b>|
+|Seminar 5        |Dictionaries & Pandas <br>Logic, Control Flow and Filtering|
+|Seminar 6        |Loops<br> Case Study: Hacker Statistics| 
 
