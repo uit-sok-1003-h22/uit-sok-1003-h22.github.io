@@ -7,7 +7,7 @@
 
 
 
-| <img width=120/>|  Tema <img width=500/>       | 
+| <img width=120/>|  Tema <img width=800/>       | 
 |-----------------|------------------------------| 
 |Seminar 1        |DataCamp: Python Basics</br>   <br> DataCamp: Functions and Packages </b> DataCamp: Writing your own functions <br> </b> <br>DataCamp: Matplotlib </b>|
 |Seminar 2        |DataCamp: Matplotlib	 </br> | 
