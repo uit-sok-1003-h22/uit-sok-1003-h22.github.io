@@ -6,7 +6,6 @@
 
 | <img width=120/>|  Tema <img width=800/>       |
 |-----------------|------------------------------|
-
 |Seminar 1        |DataCamp: Python Basics<br> DataCamp: Functions and Packages <br> DataCamp: Writing your own functions <br>DataCamp: Matplotlib|
 |Seminar 2        |DataCamp: Matplotlib| 
 |Seminar 3        |DataCamp: Python Lists <br> Datacamp: Numpy| 
