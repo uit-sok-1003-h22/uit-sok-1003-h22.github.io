@@ -13,6 +13,6 @@
 |Seminar 2        |DataCamp: Matplotlib	| 
 |Seminar 3        |DataCamp: Python Lists <br> Datacamp: Numpy| 
 |Seminar 4        |Oppgave i canvas|
-|Seminar 5        |Dictionaries & Pandas <br>Logic, Control Flow and Filtering|
-|Seminar 6        |Loops<br> Case Study: Hacker Statistics| 
+|Seminar 5        |Datacamp: Dictionaries & Pandas <br>Logic, Datacamp: Control Flow and Filtering|
+|Seminar 6        |Datacamp: Loops<br> Datacamp: Case Study: Hacker Statistics| 
 
