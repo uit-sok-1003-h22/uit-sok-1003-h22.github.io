@@ -54,7 +54,7 @@ th {
 * Funksjoner med flere argumenter<br>
 * Funksjoner som returnerer flere variabler</td>	<td>Writing your own functions</td>	<td>Toolbox I</td>	<th><a href='https://github.com/uit-sok-1003-h22/notebooks/blob/main/2%20-%20funksjoner.ipynb'>2 - funksjoner.ipynb</a><br>
 </th>	<td><a href='https://learn.datacamp.com/'>DataCamp</a></td>
-</tr><tr style='background-color: white;'> 	<td>38</td>	<td>3</td>	<td>Matplotlib</td>	<td>* Linjeplot<br>
+</tr><tr style='background-color: white;'> 	<td>37</td>	<td>3</td>	<td>Matplotlib</td>	<td>* Linjeplot<br>
 * Scatterplot<br>
 * Histogram<br>
 * Etiketter<br>
