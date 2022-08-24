@@ -25,7 +25,7 @@ Når du er på nettsiden til repositoriet, gåt til "Settings", og så "Manage a
 ## Dytte repositoriet til github:
 Dette gjør du ETTER at du har lagret en jupyter-fil i mappen til det klonede repositoriet. Sørg for at du lagrer i riktig mappe!
 
-1. Naviger til repositoriemappen i Terminal (se [tips og triks.md](https://github.com/uit-sok-1003-h21/notebooks/blob/main/tips_og_triks.md) for hvordan du navigerer i Terminal.) 
+1. Naviger til repositoriemappen i Terminal (se [tips og triks.md](https://github.com/uit-sok-1003-h22/notebooks/blob/main/tips_og_triks.md) for hvordan du navigerer i Terminal.) 
 2. Kjør i Terminal:
 ```
 git add .
