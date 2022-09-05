@@ -13,9 +13,9 @@ Kurset tas normalt i første høstsemester, og teller 5 studiepoeng.
 
 [Ole Kristian Aars](https://uit.no/ansatte/person?p_document_id=768566){:target="blank"} (fagansvarlig). Kontor: 02.307
 
-[TBD] (seminar/studenthjelp,<epost>)
+Erlend Sørra er (seminar/studenthjelp,<eso086@post.uit.no>)
 
-[Seminarleder] har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
+Erlend har også kontortid, der studentene kan stille spørsmål om de har behov (ikke obligatorisk!). Se timeplan. 
 
 
 ## Pensum  
