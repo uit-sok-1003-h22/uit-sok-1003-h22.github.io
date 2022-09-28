@@ -22,6 +22,8 @@ Mappeoppgaven vil publiseres senest 2 uker før presentasjonen.
 # Slik leverer du:
 Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
 
+<b> MERK: første innlevering av første mappeoppgave gjøres på canvas [her] (https://uit.instructure.com/courses/26947/assignments)
+
 [Se her](https://github.com/uit-sok-1003-h22/uit-sok-1003-h22.github.io/blob/main/github.md) for å lese mer om hvordan man leverer på github
 
 Dere kan levere i grupper på opptil 3 personer.
