@@ -6,7 +6,7 @@ Vurderingsformen i dette kurset er innlevering av to mappeoppgaver. Mappeoppgave
 Frister for innleveringer [finnes her](https://uit-sok-1003-h22.github.io/frister.html).
 
 ## Første mappeoppgave 
-Skal leveres inn 17/10, med presentasjon 19/10. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
+Skal leveres inn 17/10, med presentasjon 19/10. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til o.k.aars@uit.no.   
 
 Mappeoppgaven finner dere [her](https://github.com/uit-sok-1003-h22/mappe) .
 
@@ -21,7 +21,7 @@ Mappeoppgaven vil publiseres senest 2 uker før presentasjonen.
 # Slik leverer du:
 Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
 
-<b> MERK: </b> første innlevering av første mappeoppgave gjøres på canvas [her:](https://uit.instructure.com/courses/26947/assignments)
+<b> MERK: </b> første innlevering av PDF'en i første mappeoppgave gjøres på canvas [her:](https://uit.instructure.com/courses/26947/assignments)
 
 [Se her](https://github.com/uit-sok-1003-h22/uit-sok-1003-h22.github.io/blob/main/github.md) for å lese mer om hvordan man leverer på github
 
