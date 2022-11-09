@@ -24,11 +24,11 @@ Mappeoppgaven vil publiseres senest 2 uker før presentasjonen.
 Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som lastes opp til github og Wiseflow. Koden skal kunne kjøres direkte i Jupyter, etter at prosjekte er klonet fra github. På Wiseflow leveres pdf av notatboken (bruk eksportfunksjonen i Jupyter). 
 
 - Wiselow: På wiseflow vil hver mappeoppgave ha en egen "flow". Her leverer en person per gruppe. Denne personen må likevel invitere andre gruppemedlemmer med som deltakere. 
-- Github: en person per mappe, per gruppe, gir tilging til faglærer ("okaars"). Hvis dere har satt reposetoriet til public (anbefales ikke), må dere dele lenken til dette på o.k.aars@uit.no
+- Github: en person per mappe, per gruppe, gir tilging til faglærer ("okaars"). Hvis dere har satt reposetoriet til public (anbefales ikke), må dere dele lenken til dette på ole.k.aars@uit.no
 
 [Se her](https://github.com/uit-sok-1003-h22/uit-sok-1003-h22.github.io/blob/main/github.md) for å lese mer om hvordan man leverer på github
 
-Dere kan levere i grupper på opptil 3 personer. Registrer medlemmer av gruppen deres her: [her:] (https://docs.google.com/forms/d/e/1FAIpQLSeljUukzUU5d-VbxyM4C0x4WUplhUKBCU5wIpPZl_bP5kN71A/viewform?usp=sf_link)
+Dere kan levere i grupper på opptil 3 personer. Registrer medlemmer av gruppen deres her: <a href= 'https://docs.google.com/forms/d/e/1FAIpQLSeljUukzUU5d-VbxyM4C0x4WUplhUKBCU5wIpPZl_bP5kN71A/viewform?usp=sf_link'> her </>)
 
 ### For mappe 1
 Bruk følgende navn: SOK-1003-eksamen-2022-mappe1. 
