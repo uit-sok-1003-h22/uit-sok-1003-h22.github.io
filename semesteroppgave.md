@@ -40,7 +40,7 @@ Bruk følgende navn: SOK-1003-eksamen-2022-mappe2
 Karakter gis ut fra følgende tre kriterier: 
 * I hvilken grad oppgaven er besvart i henhold til beskrivelsen over. 
 * I hvilken grad alle deler av pensum er brukt på en hensiktsmessig og riktig måte 
-* For å få en toppkarakter må gruppen/kandidaten vise god vurderingsevne og stor grad av selvstendighet. Det vil si at oppgaven gir et bidrag som er spesielt intressant og relevant. 
+* For å få en toppkarakter må gruppen/kandidaten vise god vurderingsevne og stor grad av selvstendighet. 
 
 Det er ingen minste lengde på oppgaven. Det avgjørende er om den er godt besvart. 
 
