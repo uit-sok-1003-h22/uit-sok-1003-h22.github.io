@@ -28,7 +28,7 @@ Hver mappeoppgave leveres som et Jupyter-prosjekt eller python fil (\*.py), som 
 
 [Se her](https://github.com/uit-sok-1003-h22/uit-sok-1003-h22.github.io/blob/main/github.md) for å lese mer om hvordan man leverer på github
 
-Dere kan levere i grupper på opptil 3 personer. Registrer medlemmer av gruppen deres her: <a href= 'https://docs.google.com/forms/d/e/1FAIpQLSeljUukzUU5d-VbxyM4C0x4WUplhUKBCU5wIpPZl_bP5kN71A/viewform?usp=sf_link'> her </>)
+Dere kan levere i grupper på opptil 3 personer. <a href= 'https://docs.google.com/forms/d/e/1FAIpQLSeljUukzUU5d-VbxyM4C0x4WUplhUKBCU5wIpPZl_bP5kN71A/viewform?usp=sf_link'> Registrer medlemmer av gruppen deres her.
 
 ### For mappe 1
 Bruk følgende navn: SOK-1003-eksamen-2022-mappe1. 
