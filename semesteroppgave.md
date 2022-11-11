@@ -8,7 +8,7 @@ Frister for innleveringer [finnes her](https://uit-sok-1003-h22.github.io/friste
 ## Første mappeoppgave 
 Skal leveres inn 17/10, med presentasjon 19/10. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min). Gi beskjed om hvem som er på gruppa innen 7/10 til ole.k.aars@uit.no.   
 
-Mappeoppgaven finner dere [her](https://github.com/uit-sok-1003-h22/mappe) .
+Mappeoppgave 1 finner dere [her](https://github.com/uit-sok-1003-h22/mappe) .
 
 Første innlevering av PDF'en i første mappeoppgave gjøres på canvas [her:](https://uit.instructure.com/courses/26947/assignments)
 
@@ -17,7 +17,7 @@ MERK: Studentene vil ha mulighet til å gjøre endringer i mappen frem til endel
 ## Andre mappeoppgave 
 Skal leveres inn 6/12, med presentasjon 29/11 og 30/11. Presentasjonen innebærer en gjennomgang av koden/besvarelsen av studentene (10-15 min), etterfulgt av kommentarer/spørsmål (5-10 min).   
 
-Mappeoppgaven vil publiseres senest 2 uker før presentasjonen.
+Mappeoppgave 2 <a href='https://github.com/uit-sok-1003-h22/mappe2/blob/main/Mappe%202_oppgaver.ipynb'> finner dere her</a>.
 
 
 # Slik leverer du:
