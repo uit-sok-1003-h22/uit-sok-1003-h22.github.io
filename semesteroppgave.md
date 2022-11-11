@@ -38,7 +38,7 @@ Bruk følgende navn: SOK-1003-eksamen-2022-mappe2
 
 # Skriftlig vurdering
 Karakter gis ut fra følgende tre kriterier: 
-* I hvilken grad oppgaven er besvart i henhold til beskrivelsen over. 
+* I hvilken grad oppgavene er besvart i henhold til beskrivelsen i mappeoppgavene. 
 * I hvilken grad alle deler av pensum er brukt på en hensiktsmessig og riktig måte 
 * For å få en toppkarakter må gruppen/kandidaten vise god vurderingsevne og stor grad av selvstendighet. 
 
